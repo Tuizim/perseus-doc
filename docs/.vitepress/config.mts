@@ -26,9 +26,15 @@ export default defineConfig({
       },
       {
         text: 'Ordem de Servico',
+        collapsed:true,
         items: [
           {
+            text: 'Introdução',
+            link:'/ordem-de-servico/introducao.md'
+          },
+          {
             text: 'API',
+            collapsed:true,
             link: '/ordem-de-servico/api/api.md',
             items: [
               {
