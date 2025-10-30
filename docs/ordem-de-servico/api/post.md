@@ -120,8 +120,6 @@ Assim, fica fácil para quem lê entender a hierarquia e saber exatamente onde c
 
 ## 🧠 Regras de Negócio
 
-Perfeito 👍 — aqui está a versão **essencial e limpa**, mantendo boa legibilidade visual sem exageros:
-
 ### ⚙️ Status Inicial
 
 * Toda nova Ordem de Serviço é criada **com status `ABERTO`**.
