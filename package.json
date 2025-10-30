@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.12"
+  },
+  "scripts": {
+    "perseus:dev": "vitepress dev perseusDoc",
+    "perseus:build": "vitepress build perseusDoc",
+    "perseus:preview": "vitepress preview perseusDoc"
+  }
+}
