@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.W5ZyBR1w.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"epico/introducao.md","filePath":"epico/introducao.md"}'),a={name:"epico/introducao.md"};function c(r,n,i,s,d,p){return o(),t("div")}const f=e(a,[["render",c]]);export{m as __pageData,f as default};

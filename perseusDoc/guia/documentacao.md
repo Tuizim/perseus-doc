@@ -15,7 +15,7 @@ npm install
 npm run docs:dev
 ```
 
-Acesse 👉 **[http://localhost:5173](http://localhost:5173)**
+Abra em seu navegador: **http://localhost:5173**
 
 > 💡 Dica: o servidor recarrega automaticamente ao salvar arquivos.
 

@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Perseus Doc Hub",
   description: "Documentação oficial da equipe Perseus",
+  ignoreDeadLinks:true,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -41,7 +42,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Tuizim/perseus-doc' }
     ]
   }
 })
